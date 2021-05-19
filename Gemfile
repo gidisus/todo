@@ -14,6 +14,7 @@ gem 'simple_form', '~> 3.1.0'
 gem 'nokogiri', '~> 1.6.0'
 gem 'rake', '~> 12.3.3'
 gem 'rgeo', '~> 0.3'
+gem 'sqlite3', '~> 1.4.2'
 
 # Assets
 gem 'jquery-rails'
@@ -26,7 +27,7 @@ platform :ruby do
   gem 'mysql2'
   gem 'pg', '~> 0.18.1'
   gem 'activerecord-postgis-adapter', '3.0.0.beta2'
-  gem 'sqlite3'
+ 
 
   gem 'newrelic_rpm', '~> 3.9.9'
   gem 'unicorn'
