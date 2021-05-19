@@ -14,7 +14,7 @@ gem 'simple_form', '~> 3.1.0'
 gem 'nokogiri', '~> 1.6.0'
 gem 'rake', '~> 12.3.3'
 gem 'rgeo', '~> 0.3'
-gem 'sqlite3', '~> 1.4.2'
+gem 'sqlite3', '~> 1.3.6'
 
 # Assets
 gem 'jquery-rails'
